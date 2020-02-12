@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor, Business Technology
+role: School of Business
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,13 @@ organizations:
   url: "https://www.okanagan.bc.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include digital marketing, management information systems, and e-learning curriculum design.
+bio: My research interests include digital marketing, management information systems, technical documentation, and e-learning design.
 
 interests:
 - Digital Marketing
+- Information Systems
+- Website Development
 - E-learning Development
-- Management Information Systems
 
 education:
   courses:
@@ -32,9 +33,9 @@ education:
     year: 2016
   - course: MA in Technology Leadership
     institution: George Washington University
-    year: 2002
+    year: 2001
   - course: BCom in Marketing & Accounting Information Systems
-    institution: Sauder School of Business, UBC
+    institution: University of B.C.
     year: 1988
 
 # Social/Academic Networking
@@ -51,9 +52,11 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3RYC1IIAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcoulthard
+
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcoulthard
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Glen Coulthard has been a faculty member in the School of Business since 2001. Prior to this, he worked as a program administrator for technology programs in the Continuing Education department. Throughout this time, Glen has witnessed tremendous growth and change in both the college and local community, and remains excited to be involved in shaping the college’s role in the North Okanagan. In addition to his Bachelor of Commerce (UBC) degree and a Masters in Technology Leadership (GWU), Glen earned his doctorate in Learning Design and Technology from Purdue University. An expert in the design and development of e-learning curriculum and online assessments, Glen has consulted with Microsoft, McGraw-Hill Higher Education, Pearson Education, and Savant Learning Systems. He is currently developing OER web-based curriculum to be distributed through BC Campus. 
+Glen Coulthard has been a faculty member in the School of Business since 2002. In addition to his Bachelor of Commerce (UBC) degree and a Masters in Educational Technology Leadership (GWU), Glen earned his doctorate in Learning Design and Technology from Purdue University. An expert in the design and development of e-learning curriculum and online assessments, Glen has consulted with Microsoft, McGraw-Hill Higher Education, Pearson Education, and Savant Learning Systems. He is currently developing OER web-based curriculum to be distributed freely to post-secondary students. 
