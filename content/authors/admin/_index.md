@@ -35,7 +35,7 @@ education:
     institution: George Washington University
     year: 2001
   - course: BCom in Marketing & Accounting Information Systems
-    institution: University of B.C.
+    institution: University of British Columbia
     year: 1988
 
 # Social/Academic Networking
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Glen Coulthard has been a faculty member in the School of Business since 2002. In addition to his Bachelor of Commerce (UBC) degree and a Masters in Educational Technology Leadership (GWU), Glen earned his doctorate in Learning Design and Technology from Purdue University. An expert in the design and development of e-learning curriculum and online assessments, Glen has consulted with Microsoft, McGraw-Hill Higher Education, Pearson Education, and Savant Learning Systems. He is currently developing OER web-based curriculum to be distributed freely to post-secondary students. 
+Glen Coulthard has been a faculty member in the School of Business at Okanagan College since 2002. In addition to his Bachelor of Commerce (UBC) degree and a Masters in Educational Technology Leadership (GWU), Glen earned his doctorate in Learning Design and Technology from Purdue University. An expert in the design and development of e-learning curriculum and online assessments, Glen has consulted with Microsoft, McGraw-Hill Higher Education, Pearson Education, and Savant Learning Systems. He is currently developing OER web-based curriculum to be distributed freely to post-secondary students. 
